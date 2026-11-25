@@ -1,0 +1,6 @@
+interface:
+  display_name: "Professional Document & Presentation Writing"
+  short_description: "Evidence-grounded documents, decks, and speaker notes"
+  default_prompt: "Use $professional-document-presentation-writing to plan and create a polished, evidence-grounded document or presentation."
+policy:
+  allow_implicit_invocation: true
