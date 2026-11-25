@@ -1,6 +1,6 @@
 ---
 name: professional-document-presentation-writing
-description: Plan, research, write, revise, format, or verify academic, research, business, product, and operations documents or presentations, including slide content and speaker notes. Use for substantive document/PPT creation and editing; do not invoke for casual conversation or answers that do not produce or materially revise a document or deck.
+description: "Use when asked to write, revise, or make a paper, essay, thesis, report, professional document, PowerPoint, PPT, or slides (写论文、润色论文、写报告、做PPT、改幻灯片). Covers topic selection, outlines, research, drafting, formatting, citation checks, slide planning, and speaker notes, even before the brief is complete. Also covers research, business, product, and operations deliverables. Exclude casual chat and pure Q&A."
 ---
 
 # Professional Document & Presentation Writing
