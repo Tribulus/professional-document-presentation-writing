@@ -1,6 +1,6 @@
 # Professional Document & Presentation Writing Skill
 
-用于在 Codex 中规划、撰写、修改和核查课程论文、研究报告、商业分析、产品与运营文档及演示文稿。
+用于规划、撰写、修改和核查课程论文、研究报告、商业分析、产品与运营文档及演示文稿。
 
 ## 安装与调用
 
