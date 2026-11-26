@@ -1,6 +1,6 @@
 ---
 name: professional-document-presentation-writing
-description: "Use when asked to write, revise, or make a paper, essay, thesis, report, professional document, PowerPoint, PPT, or slides (写论文、润色论文、写报告、做PPT、改幻灯片). Covers topic selection, outlines, research, drafting, formatting, citation checks, slide planning, and speaker notes, even before the brief is complete. Also covers research, business, product, and operations deliverables. Exclude casual chat and pure Q&A."
+description: "Write, revise, or plan papers, theses, essays, reports, professional documents, PowerPoint, PPT, or slides (写论文、润色论文、写报告、做PPT、改幻灯片). Review merged group reports or decks, locate conflicting or repeated content, index all terminology occurrences, and annotate Word or PPT drafts (小组合稿、术语定位、标黄批注). Covers topic selection, outlines, research, formatting, citation checks and speaker notes, including incomplete briefs and business, product and operations deliverables. Exclude casual chat and pure Q&A."
 ---
 
 # Professional Document & Presentation Writing
@@ -20,6 +20,8 @@ Infer the lightest mode that can complete the request:
 Inherit constraints already confirmed in the same project or conversation. Do not ask for information already available. Ask only about a missing choice that would materially change direction and cannot be reasonably inferred.
 
 When the output is primarily prose, read [references/document-workflow.md](references/document-workflow.md). When it is a deck, slide outline, or speaker notes, read [references/presentation-workflow.md](references/presentation-workflow.md). For any task using external facts, sources, citations, data, cases, or calculations, also read [references/evidence-and-quality.md](references/evidence-and-quality.md).
+
+For group drafts, cross-section consistency checks, duplicate or term location, or requests for marked-up Word/PPT review copies, follow [Group Work Integration & Consistency Review](references/evidence-and-quality.md#group-work-integration--consistency-review). Route by intent even without those phrases.
 
 ## Explore without leading
 

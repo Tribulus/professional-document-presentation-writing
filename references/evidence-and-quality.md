@@ -33,3 +33,30 @@ If a source cannot be verified, replace it with a verified source, narrow or rem
 ## QA record
 
 Keep a compact internal ledger of material claims, source location, support check, scope/metric check, and action taken. The final review note may summarize this work, but the formal artifact should remain clean unless the requested genre requires an audit appendix.
+
+## Group Work Integration & Consistency Review
+
+Use for merged reports or decks, cross-contributor terminology, figures or conclusions, duplicate passages and their locations, all uses of a term, or annotated drafts. Review first. Apply edits only within separate, explicit authorization. Preserve originals, citations, charts, contributor attribution, substantive views and conclusions. Use a separate review copy, and preserve structure and layout. Differences in voice alone do not warrant rewriting a contributor's work.
+
+### Locate and classify
+
+- Assign each issue a stable ID such as C-01. Record type, severity, cause, suggested action, verification status or next check, and responsible section owner when known.
+- For each implicated occurrence, give the actual file and version, section and verified page, paragraph, slide or object locator as available, and quote the exact affected words, sentence, number or relevant chart relationship. List all linked locations under the same ID. Read the source directly and state any inaccessible scope. If pagination or paragraph IDs are unavailable, use a verified heading and quoted anchor. Never invent anchors, counts, quotes or locations.
+- Compare the exact passages, values and citation markers on every affected side. Distinguish confirmed factual, data or logical conflicts, apparent conflicts due to object, period, region, sample or assumptions, legitimately different viewpoints, redundant background or argument, and repetition serving a distinct analytical purpose. For redundancy, specify which instance to keep and which to edit or remove, with reasons.
+- Follow the claim-by-claim checks above before resolving conflicting figures or citations. Compare definitions, units, denominators and original sources. Flag unresolved figures for verification and leave them unchanged. For decks, compare slides, chart data and labels, conclusions and Speaker Notes together.
+
+### Term index
+
+For each disputed term, acronym, concept or metric, list all observed variants, the verified count per variant and every occurrence in reviewed material, including repeated uses on the same page. Give each occurrence's verified locator and original sentence or sufficient context, and link it to the corresponding issue ID. Summarize counts in the report and place the complete register in an appendix if lengthy. Mark incomplete coverage and exclude unverified counts.
+
+Decide whether variants are equivalent by checking definitions and measurement scope. Recommend a canonical form or explain why distinctions should remain. Check both reuse of one acronym for different meanings and multiple acronyms for one concept. A shared topic alone does not justify replacement. Delivery Cost, Logistics Cost and Fulfillment Cost can cover different activities. Avoid unconditional global replacement.
+
+### Review deliverables
+
+Offer one grouped choice when needed: A, structured issue report only; B, separate highlighted and annotated review copy; C, both (recommended). Honor a format already specified. This choice governs delivery only. It grants no permission to edit original wording or change substantive views.
+
+- **Word:** Prefer native highlights limited to the affected words, sentence or value, with anchored native comments. Anchor chapter-level issues to a heading or key paragraph. Mark each affected location under the same ID.
+- **PowerPoint:** Identify the slide and specific text box, chart or shape, including affected text, value or relationship. Prefer native comments with the most precise anchor the format supports. Keep review marks outside the final presentation.
+- **Comment format:** Use `[C-03] Issue type` followed by the reason, actionable suggestion and related locations or issue IDs when relevant. If native support is missing or verification fails, disclose the limitation and provide a separately marked review copy with written comments or a location-specific list, per slide for decks. Verify comments and highlights are present, correctly anchored and layout-safe before claiming native support.
+
+Keep IDs consistent across the report, index, highlights, comments and revision log, regardless of which deliverables are requested. After authorized revisions, retain the original ID, status and resolution history. Before delivery, cross-check anchors and counts, confirm originals were preserved and keep review artifacts separate from clean deliverables.
