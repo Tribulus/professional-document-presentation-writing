@@ -53,7 +53,7 @@ Decide whether variants are equivalent by checking definitions and measurement s
 
 ### Review deliverables
 
-Offer one grouped choice when needed: A, structured issue report only; B, separate highlighted and annotated review copy; C, both (recommended). Honor a format already specified. This choice governs delivery only. It grants no permission to edit original wording or change substantive views.
+For every in-scope consistency audit, if the user has not already chosen the output format, offer one grouped choice at the start: A, structured issue report only; B, separate highlighted and annotated review copy; C, both (recommended). Use an interactive selector when available, otherwise present the same options in chat. A request to check consistency or an instruction excluding a section does not choose a format. Read and diagnose while awaiting the choice when possible, and obtain the choice before final delivery. Honor an already specified format. This choice governs delivery only and grants no permission to edit original wording or substantive views.
 
 - **Word:** Prefer native highlights limited to the affected words, sentence or value, with anchored native comments. Anchor chapter-level issues to a heading or key paragraph. Mark each affected location under the same ID.
 - **PowerPoint:** Identify the slide and specific text box, chart or shape, including affected text, value or relationship. Prefer native comments with the most precise anchor the format supports. Keep review marks outside the final presentation.

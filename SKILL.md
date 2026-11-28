@@ -21,7 +21,7 @@ Inherit constraints already confirmed in the same project or conversation. Do no
 
 When the output is primarily prose, read [references/document-workflow.md](references/document-workflow.md). When it is a deck, slide outline, or speaker notes, read [references/presentation-workflow.md](references/presentation-workflow.md). For any task using external facts, sources, citations, data, cases, or calculations, also read [references/evidence-and-quality.md](references/evidence-and-quality.md).
 
-For group drafts, cross-section consistency checks, duplicate or term location, or requests for marked-up Word/PPT review copies, follow [Group Work Integration & Consistency Review](references/evidence-and-quality.md#group-work-integration--consistency-review). Route by intent even without those phrases.
+For group drafts, cross-section consistency checks, duplicate or term location, or requests for marked-up Word/PPT review copies, follow [Group Work Integration & Consistency Review](references/evidence-and-quality.md#group-work-integration--consistency-review). Route by intent even without those phrases. If the user has not chosen a delivery format, offer the review options before finalizing the audit.
 
 ## Explore without leading
 
